@@ -1,9 +1,9 @@
 package Captura;
 
 public class Cardume {
-    private String especie;
-    private double peso;
-    private double peso_medio;
-    private double peso_total;
+    private Especie especie;
+    private int qtdEspecie;
+    private Area_Pesca localizacao;
+    private double pesoTotal;
 
 }

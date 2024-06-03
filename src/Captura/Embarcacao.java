@@ -1,6 +1,6 @@
 package Captura;
 
-public class Barco {
+public class Embarcacao {
     private int numero_viagens;
     private int limite_viagens;
 }
